@@ -203,6 +203,12 @@ const themes = {
     text_color: "ebcfb2",
     bg_color: "373f51",
   },
+  "dracula-v2": {
+    title_color: "bd93f9",
+    icon_color: "ff79c6",
+    text_color: "8BE9FD",
+    bg_color: "282A36",
+  },
 };
 
 module.exports = themes;
